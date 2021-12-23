@@ -12,12 +12,4 @@ for i in range(1,10001):
 
 for m in con:
     print(m)
-
-# con.append(d(x))
-# for m in con :
-#     if m != x and m == con[-1]:
-#         print(x)
-#     elif m == x:
-#         break
-    
        
